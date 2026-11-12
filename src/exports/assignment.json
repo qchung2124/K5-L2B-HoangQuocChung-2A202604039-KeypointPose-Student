@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202604039",
+ "ten": "HoangQuocChung",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "b22dcat045",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000103970.jpg",
+  "000000162046.jpg",
+  "000000445187.jpg",
+  "000000463932.jpg",
+  "000000525227.jpg",
+  "000000156986.jpg",
+  "000000177338.jpg",
+  "000000375535.jpg",
+  "000000480582.jpg",
+  "000000515309.jpg",
+  "000000572411.jpg",
+  "000000413160.jpg"
+ ],
+ "faces": [
+  "face_10579.jpg",
+  "face_257657.jpg",
+  "face_362568.jpg",
+  "face_476363.jpg",
+  "face_505385.jpg",
+  "face_178208.jpg",
+  "face_256814.jpg",
+  "face_562485.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 17,
+   "job_id": 14,
+   "task_name": "persons-HoangQuocChung"
+  },
+  "faces": {
+   "task_id": 18,
+   "job_id": 15,
+   "task_name": "faces-HoangQuocChung"
+  }
+ }
+}
